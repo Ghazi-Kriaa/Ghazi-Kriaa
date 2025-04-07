@@ -1,5 +1,5 @@
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif)
 <h1 align="center">Hi 👋, I'm Ghazi Kriaa</h1>
 <h3 align="center">Computer engineering, web technology, and multimedia student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w">

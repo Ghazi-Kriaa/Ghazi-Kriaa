@@ -2,7 +2,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ghazi Kriaa</h1>
 <h3 align="center">Computer engineering, web technology, and multimedia student</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRohantiwari10&psig=AOvVaw1bF2EVQ7DDN5JvCTWW1zMY&ust=1744127958591000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjhs46lxowDFQAAAAAdAAAAABAn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcto-use-case-4-senior-software-engineer-flave-boulouma-cto--9hojf&psig=AOvVaw1bF2EVQ7DDN5JvCTWW1zMY&ust=1744127958591000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjhs46lxowDFQAAAAAdAAAAABAw)">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghazi-kriaa&label=Profile%20views&color=0e75b6&style=flat" alt="ghazi-kriaa" /> </p>
 
 - 🔭 I’m currently working on **Spring Boot, Angular**
